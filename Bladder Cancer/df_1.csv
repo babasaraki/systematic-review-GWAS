@@ -1,0 +1,36 @@
+Arm,Statistical Significance,Genotype(SNPs) ,Locus,Allele,CHR,Author,Country,Year
+Short,Significant,rs6104690,20p12.2,A/G,CHR20,Jonine D. Figueroa (2016),USA,2016
+Short,Significant,rs6108803,20p12.2,G/A,CHR20,Jonine D. Figueroa (2016),USA,2016
+Short,Significant,rs62185668,20p12.2,A/C,CHR20,Jonine D. Figueroa (2016),USA,2016
+Long,Significant,rs602846,20q11.22,NR,CHR20,Jian Gu (2011),USA,2011
+Short,Significant,rs621559,1p34.2,G/A,CHR1,Jian Gu (2011),USA,2011
+Long,Significant,rs398652,14q21,G/A,CHR14,Jian Gu (2011),USA,2011
+Long,Significant,rs654128,6q22.1,C/A,CHR6,Jian Gu (2011),USA,2011
+Long,Significant,rs11543198,15q24,G/A,CHR15,Matsuda K. (2015),Japan,2015
+Long,Significant,rs7238033,18q12.3,C/T,CHR18,Montserrat Garcia-Closas (2011),USA,2011
+Long,Significant,rs10775480,18q12.3,C/T,CHR18,Montserrat Garcia-Closas (2011),USA,2011
+Long,Significant,rs11082469,18q12.3,A/G,CHR18,Montserrat Garcia-Closas (2011),USA,2011
+Long,Not Indicated,rs9642880,8q24,G/T,CHR8,Meilin Wang (2009),China,2009
+Long,Not Indicated,rs710521,3q28,A/G,CHR3,Meilin Wang (2009),China,2009
+Short,Not Significant,rs2736098,5p15.33,G/A,CHR5,Thorunn Rafnar (2011),Iceland,2011
+Short,Not Significant,rs401681,5p15.33,C/T,CHR5,Thorunn Rafnar (2011),Iceland,2011
+Long,Significant,rs2294008,8q24.3,C/T,CHR8,Xifeng Wu (2009),USA,2009
+Long,Significant,rs1014971,22q13.1,T/C,CHR22,Nathaniel Rothman (2010),USA,2010
+Long,Not Significant,rs8102137,19q12,T/C,CHR19,Nathaniel Rothman (2010),USA,2010
+Long,Significant,rs11892031,2q37.1,A/C,CHR2,Nathaniel Rothman (2010),USA,2010
+Short,Not Significant,rs1495741,8p22,A/G,CHR8,Nathaniel Rothman (2010),USA,2010
+Long,Significant,rs10936599,3q26.2,T/C,CHR3,Jonine D. Figueroa (2013),USA,2013
+Short,Significant,rs907611,11p15.5,G/A,CHR11,Jonine D. Figueroa (2013),USA,2013
+Short,Significant,rs6104690,20p12.2,C/A,CHR20,Jonine D. Figueroa (2013),USA,2013
+Short,Significant,rs4510656,6p22.3,G/A,CHR6,Jonine D. Figueroa (2013),USA,2013
+Short,Not Indicated,rs401681,5p15.3,C/T,CHR5,Chenyang Xu (2020),Japan,2020
+Long,Not Indicated,rs9642880,8q24.21,C/T,CHR8,Chenyang Xu (2020),Japan,2020
+Long,Not Indicated,rs4907479,13q34,A/G,CHR13,Chenyang Xu (2020),Japan,2020
+Long,Not Indicated,rs17674580,18q12.3,C/T,CHR18,Chenyang Xu (2020),Japan,2020
+Short,Not Indicated,rs4813953,20p12.2,C/T,CHR20,Chenyang Xu (2020),Japan,2020
+Short,Not Indicated,rs6104690,20p12.2,A/G,CHR20,Chenyang Xu (2020),Japan,2020
+Long,Not Indicated,rs1014971,22q13.1,C/T,CHR22,Chenyang Xu (2020),Japan,2020
+Long,Not Indicated,rs9642880,8q24.21,G/T,CHR8,Samah Mamdouh (2021),Egypt,2021
+Long,Not Indicated,rs710521,3q28,A/G,CHR3,Samah Mamdouh (2021),Egypt,2021
+Long,Not Significant,rs710521,3q28,A/T,CHR3,Mariana C. Stern (2009),USA/China,2009
+Short,Significant,rs798766,4p16.3,NR,CHR4,Lambertus A Kiemeney (2010),Netherlands,2010
